@@ -1,0 +1,30 @@
+id_compra,fecha,proveedor,producto,cantidad,importe
+1,2026-03-14,Beauty Pro,Decolorante,18,198
+2,2026-03-29,Beauty Pro,Tinte profesional,19,133
+3,2026-03-30,Beauty Pro,Guantes y material,15,82
+4,2026-04-13,Beauty Pro,Decolorante,7,77
+5,2026-04-18,Distribuciones Hair,Mascarilla capilar,14,126
+6,2026-04-20,Distribuciones Hair,Champú profesional,13,104
+7,2026-04-21,Beauty Pro,Decolorante,12,132
+8,2026-04-29,Beauty Pro,Guantes y material,14,77
+9,2026-05-09,Beauty Pro,Oxidante,20,80
+10,2026-05-14,Distribuciones Hair,Champú profesional,6,48
+11,2026-05-20,Beauty Pro,Guantes y material,15,82
+12,2026-05-23,Beauty Pro,Guantes y material,11,60
+13,2026-06-05,Distribuciones Hair,Mascarilla capilar,15,135
+14,2026-06-23,Distribuciones Hair,Champú profesional,12,96
+15,2026-06-26,Distribuciones Hair,Champú profesional,17,136
+16,2026-06-29,Beauty Pro,Decolorante,15,165
+17,2026-07-06,Beauty Pro,Tinte profesional,6,42
+18,2026-07-13,Distribuciones Hair,Mascarilla capilar,18,162
+19,2026-07-18,Beauty Pro,Oxidante,18,72
+20,2026-07-19,Beauty Pro,Oxidante,10,40
+21,2026-07-22,Beauty Pro,Guantes y material,20,110
+22,2026-08-04,Distribuciones Hair,Champú profesional,17,136
+23,2026-08-12,Beauty Pro,Tinte profesional,12,84
+24,2026-08-31,Beauty Pro,Oxidante,16,64
+25,2026-09-06,Distribuciones Hair,Mascarilla capilar,12,108
+26,2026-09-13,Beauty Pro,Guantes y material,12,66
+27,2026-09-18,Beauty Pro,Oxidante,7,28
+28,2026-09-21,Distribuciones Hair,Champú profesional,17,136
+29,2026-09-26,Beauty Pro,Guantes y material,16,88

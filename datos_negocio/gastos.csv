@@ -1,0 +1,36 @@
+id_gasto,fecha,categoria,concepto,importe
+1,2026-03-02,Alquiler,Local,850
+2,2026-03-04,Suministros,Electricidad y agua,143
+3,2026-03-06,Marketing,Publicidad Instagram,120
+4,2026-03-10,Software,Sistema de reservas,45
+5,2026-03-24,Limpieza,Productos de limpieza,50
+6,2026-04-02,Alquiler,Local,850
+7,2026-04-04,Suministros,Electricidad y agua,171
+8,2026-04-06,Marketing,Publicidad Instagram,150
+9,2026-04-10,Software,Sistema de reservas,45
+10,2026-04-24,Limpieza,Productos de limpieza,56
+11,2026-05-02,Alquiler,Local,850
+12,2026-05-04,Suministros,Electricidad y agua,167
+13,2026-05-06,Marketing,Publicidad Instagram,300
+14,2026-05-10,Software,Sistema de reservas,45
+15,2026-05-24,Limpieza,Productos de limpieza,61
+16,2026-06-02,Alquiler,Local,850
+17,2026-06-04,Suministros,Electricidad y agua,153
+18,2026-06-06,Marketing,Publicidad Instagram,120
+19,2026-06-10,Software,Sistema de reservas,45
+20,2026-06-24,Limpieza,Productos de limpieza,46
+21,2026-07-02,Alquiler,Local,850
+22,2026-07-04,Suministros,Electricidad y agua,146
+23,2026-07-06,Marketing,Publicidad Instagram,180
+24,2026-07-10,Software,Sistema de reservas,45
+25,2026-07-24,Limpieza,Productos de limpieza,58
+26,2026-08-02,Alquiler,Local,850
+27,2026-08-04,Suministros,Electricidad y agua,159
+28,2026-08-06,Marketing,Publicidad Instagram,250
+29,2026-08-10,Software,Sistema de reservas,45
+30,2026-08-24,Limpieza,Productos de limpieza,57
+31,2026-09-02,Alquiler,Local,850
+32,2026-09-04,Suministros,Electricidad y agua,140
+33,2026-09-06,Marketing,Publicidad Instagram,120
+34,2026-09-10,Software,Sistema de reservas,45
+35,2026-09-24,Limpieza,Productos de limpieza,62

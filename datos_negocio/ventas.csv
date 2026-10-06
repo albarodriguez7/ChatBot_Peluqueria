@@ -1,0 +1,943 @@
+id_venta,fecha,id_cliente,servicio,empleado,importe
+1,2026-03-02,118,Lavado + peinado,Marta,25.0
+2,2026-03-02,128,Corte mujer,Alba,25.0
+3,2026-03-02,46,Balayage,Alba,120.0
+4,2026-03-02,149,Tratamiento capilar,Marta,40.0
+5,2026-03-02,182,Corte mujer,Marta,25.0
+6,2026-03-02,24,Balayage,Alba,120.0
+7,2026-03-02,113,Corte hombre,Marta,18.0
+8,2026-03-02,108,Corte + peinado,Marta,35.0
+9,2026-03-02,53,Corte hombre,Marta,18.0
+10,2026-03-02,101,Corte hombre,Marta,18.0
+11,2026-03-03,150,Tratamiento capilar,Marta,40.0
+12,2026-03-04,60,Corte mujer,Alba,25.0
+13,2026-03-04,178,Corte mujer,Alba,25.0
+14,2026-03-05,44,Corte mujer,Alba,25.0
+15,2026-03-05,76,Mechas + corte,Alba,110.0
+16,2026-03-05,104,Corte hombre,Marta,18.0
+17,2026-03-05,65,Corte hombre,Alba,18.0
+18,2026-03-05,162,Corte mujer,Marta,25.0
+19,2026-03-06,143,Color + corte,Alba,75.0
+20,2026-03-06,39,Tinte,Marta,55.0
+21,2026-03-06,72,Color + corte,Marta,75.0
+22,2026-03-06,157,Mechas,Alba,90.0
+23,2026-03-06,31,Corte mujer,Marta,25.0
+24,2026-03-06,145,Corte mujer,Alba,25.0
+25,2026-03-07,129,Corte mujer,Marta,25.0
+26,2026-03-07,59,Balayage,Alba,120.0
+27,2026-03-07,119,Corte mujer,Marta,25.0
+28,2026-03-07,87,Corte mujer,Marta,25.0
+29,2026-03-07,86,Corte + peinado,Marta,35.0
+30,2026-03-09,156,Color + corte,Alba,75.0
+31,2026-03-09,127,Color + corte,Marta,75.0
+32,2026-03-09,61,Corte + peinado,Marta,35.0
+33,2026-03-09,166,Color + corte,Alba,75.0
+34,2026-03-09,106,Corte hombre,Marta,18.0
+35,2026-03-10,91,Corte mujer,Marta,25.0
+36,2026-03-11,88,Corte mujer,Alba,25.0
+37,2026-03-11,80,Mechas,Alba,90.0
+38,2026-03-12,89,Corte mujer,Alba,25.0
+39,2026-03-12,50,Corte mujer,Alba,25.0
+40,2026-03-12,109,Corte + peinado,Alba,35.0
+41,2026-03-12,154,Corte + peinado,Alba,35.0
+42,2026-03-12,177,Tratamiento capilar,Alba,40.0
+43,2026-03-12,47,Corte mujer,Alba,25.0
+44,2026-03-13,55,Corte mujer,Marta,25.0
+45,2026-03-13,96,Tinte,Alba,55.0
+46,2026-03-13,102,Corte + peinado,Alba,35.0
+47,2026-03-13,116,Corte mujer,Marta,25.0
+48,2026-03-14,37,Corte hombre,Alba,18.0
+49,2026-03-14,77,Corte hombre,Marta,18.0
+50,2026-03-14,81,Corte mujer,Alba,25.0
+51,2026-03-14,69,Color + corte,Marta,75.0
+52,2026-03-14,49,Tinte,Alba,55.0
+53,2026-03-16,93,Corte mujer,Marta,25.0
+54,2026-03-16,30,Tinte,Marta,55.0
+55,2026-03-16,151,Corte + peinado,Alba,35.0
+56,2026-03-16,82,Corte mujer,Marta,25.0
+57,2026-03-16,186,Corte + peinado,Marta,35.0
+58,2026-03-18,158,Corte + peinado,Marta,35.0
+59,2026-03-18,183,Tinte,Alba,55.0
+60,2026-03-18,18,Corte + peinado,Marta,35.0
+61,2026-03-18,188,Tratamiento capilar,Marta,40.0
+62,2026-03-18,176,Color + corte,Marta,75.0
+63,2026-03-19,71,Mechas,Marta,90.0
+64,2026-03-19,105,Mechas,Alba,90.0
+65,2026-03-19,36,Corte + peinado,Marta,35.0
+66,2026-03-19,190,Mechas + corte,Alba,110.0
+67,2026-03-20,138,Corte mujer,Marta,25.0
+68,2026-03-20,114,Mechas,Alba,90.0
+69,2026-03-20,131,Tinte,Marta,55.0
+70,2026-03-20,142,Tinte,Marta,55.0
+71,2026-03-20,111,Mechas + corte,Alba,110.0
+72,2026-03-20,43,Lavado + peinado,Marta,25.0
+73,2026-03-20,99,Corte mujer,Marta,25.0
+74,2026-03-21,179,Color + corte,Marta,75.0
+75,2026-03-21,70,Tratamiento capilar,Alba,40.0
+76,2026-03-23,133,Corte + peinado,Alba,35.0
+77,2026-03-23,34,Color + corte,Marta,75.0
+78,2026-03-23,58,Lavado + peinado,Alba,25.0
+79,2026-03-23,92,Tinte,Alba,55.0
+80,2026-03-23,132,Corte mujer,Marta,25.0
+81,2026-03-23,152,Corte mujer,Alba,25.0
+82,2026-03-24,115,Corte + peinado,Alba,35.0
+83,2026-03-25,155,Tratamiento capilar,Marta,40.0
+84,2026-03-25,169,Mechas,Alba,90.0
+85,2026-03-25,126,Color + corte,Marta,75.0
+86,2026-03-25,19,Tratamiento capilar,Alba,40.0
+87,2026-03-25,98,Balayage,Alba,120.0
+88,2026-03-25,175,Corte mujer,Marta,25.0
+89,2026-03-25,110,Corte mujer,Marta,25.0
+90,2026-03-26,148,Corte mujer,Alba,25.0
+91,2026-03-26,57,Corte hombre,Alba,18.0
+92,2026-03-26,1,Corte mujer,Alba,25.0
+93,2026-03-27,125,Corte mujer,Alba,25.0
+94,2026-03-27,121,Corte mujer,Alba,25.0
+95,2026-03-27,174,Corte mujer,Alba,25.0
+96,2026-03-27,122,Color + corte,Alba,75.0
+97,2026-03-28,135,Corte + peinado,Marta,35.0
+98,2026-03-28,29,Color + corte,Alba,75.0
+99,2026-03-28,108,Tratamiento capilar,Marta,40.0
+100,2026-03-28,46,Lavado + peinado,Marta,25.0
+101,2026-03-28,171,Tratamiento capilar,Alba,40.0
+102,2026-03-28,130,Corte hombre,Marta,18.0
+103,2026-03-28,52,Corte mujer,Marta,25.0
+104,2026-03-30,40,Corte mujer,Alba,25.0
+105,2026-03-30,159,Color + corte,Alba,75.0
+106,2026-03-30,189,Tinte,Marta,55.0
+107,2026-03-30,187,Lavado + peinado,Alba,25.0
+108,2026-03-30,38,Corte + peinado,Alba,35.0
+109,2026-03-31,26,Corte hombre,Marta,18.0
+110,2026-03-31,25,Tratamiento capilar,Marta,40.0
+111,2026-04-01,59,Color + corte,Alba,75.0
+112,2026-04-01,39,Tinte,Marta,55.0
+113,2026-04-01,83,Tratamiento capilar,Marta,40.0
+114,2026-04-01,74,Mechas,Marta,90.0
+115,2026-04-01,85,Lavado + peinado,Marta,25.0
+116,2026-04-02,119,Corte + peinado,Alba,35.0
+117,2026-04-02,22,Tinte,Marta,55.0
+118,2026-04-02,16,Corte mujer,Alba,25.0
+119,2026-04-02,23,Balayage,Marta,120.0
+120,2026-04-02,2,Corte + peinado,Alba,35.0
+121,2026-04-02,62,Lavado + peinado,Alba,25.0
+122,2026-04-02,21,Lavado + peinado,Marta,25.0
+123,2026-04-02,60,Corte mujer,Alba,25.0
+124,2026-04-02,103,Corte hombre,Alba,18.0
+125,2026-04-02,100,Lavado + peinado,Marta,25.0
+126,2026-04-03,94,Tratamiento capilar,Marta,40.0
+127,2026-04-03,54,Tratamiento capilar,Alba,40.0
+128,2026-04-03,67,Corte mujer,Alba,25.0
+129,2026-04-03,167,Corte + peinado,Marta,35.0
+130,2026-04-03,64,Tratamiento capilar,Marta,40.0
+131,2026-04-03,161,Corte mujer,Alba,25.0
+132,2026-04-03,86,Corte + peinado,Marta,35.0
+133,2026-04-03,134,Corte mujer,Alba,25.0
+134,2026-04-03,160,Mechas + corte,Alba,110.0
+135,2026-04-03,101,Corte hombre,Marta,18.0
+136,2026-04-03,164,Corte mujer,Marta,25.0
+137,2026-04-04,168,Tinte,Alba,55.0
+138,2026-04-04,124,Mechas,Marta,90.0
+139,2026-04-04,66,Lavado + peinado,Alba,25.0
+140,2026-04-06,141,Tratamiento capilar,Alba,40.0
+141,2026-04-06,172,Corte mujer,Marta,25.0
+142,2026-04-06,63,Corte hombre,Alba,18.0
+143,2026-04-06,105,Corte hombre,Alba,18.0
+144,2026-04-06,90,Lavado + peinado,Alba,25.0
+145,2026-04-06,28,Tinte,Marta,55.0
+146,2026-04-07,184,Mechas + corte,Marta,110.0
+147,2026-04-07,165,Tinte,Alba,55.0
+148,2026-04-07,201,Corte + peinado,Marta,35.0
+149,2026-04-07,79,Tinte,Alba,55.0
+150,2026-04-07,158,Corte mujer,Marta,25.0
+151,2026-04-07,193,Tinte,Marta,55.0
+152,2026-04-09,144,Tinte,Alba,55.0
+153,2026-04-09,118,Lavado + peinado,Marta,25.0
+154,2026-04-09,166,Corte mujer,Marta,25.0
+155,2026-04-09,20,Lavado + peinado,Marta,25.0
+156,2026-04-10,53,Corte hombre,Marta,18.0
+157,2026-04-10,113,Corte hombre,Alba,18.0
+158,2026-04-11,73,Mechas + corte,Marta,110.0
+159,2026-04-11,136,Tratamiento capilar,Alba,40.0
+160,2026-04-11,128,Lavado + peinado,Alba,25.0
+161,2026-04-11,27,Tinte,Alba,55.0
+162,2026-04-13,170,Tratamiento capilar,Marta,40.0
+163,2026-04-13,32,Mechas + corte,Marta,110.0
+164,2026-04-14,76,Mechas + corte,Alba,110.0
+165,2026-04-14,178,Corte mujer,Marta,25.0
+166,2026-04-14,180,Tratamiento capilar,Marta,40.0
+167,2026-04-14,77,Corte mujer,Marta,25.0
+168,2026-04-15,24,Corte mujer,Alba,25.0
+169,2026-04-15,49,Mechas + corte,Alba,110.0
+170,2026-04-15,72,Tratamiento capilar,Marta,40.0
+171,2026-04-15,69,Corte + peinado,Marta,35.0
+172,2026-04-15,192,Tratamiento capilar,Marta,40.0
+173,2026-04-15,127,Corte mujer,Alba,25.0
+174,2026-04-16,182,Mechas,Alba,90.0
+175,2026-04-16,30,Corte mujer,Marta,25.0
+176,2026-04-16,163,Tratamiento capilar,Marta,40.0
+177,2026-04-16,146,Mechas,Alba,90.0
+178,2026-04-16,117,Corte mujer,Marta,25.0
+179,2026-04-17,162,Corte mujer,Marta,25.0
+180,2026-04-17,143,Corte mujer,Alba,25.0
+181,2026-04-17,120,Corte hombre,Alba,18.0
+182,2026-04-17,114,Mechas,Alba,90.0
+183,2026-04-17,202,Mechas,Marta,90.0
+184,2026-04-18,31,Corte mujer,Marta,25.0
+185,2026-04-18,42,Corte + peinado,Marta,35.0
+186,2026-04-18,37,Corte hombre,Alba,18.0
+187,2026-04-18,129,Corte mujer,Alba,25.0
+188,2026-04-18,149,Corte hombre,Marta,18.0
+189,2026-04-20,179,Color + corte,Marta,75.0
+190,2026-04-21,131,Corte mujer,Marta,25.0
+191,2026-04-21,56,Tinte,Marta,55.0
+192,2026-04-22,44,Corte mujer,Alba,25.0
+193,2026-04-22,106,Corte hombre,Marta,18.0
+194,2026-04-22,191,Corte + peinado,Marta,35.0
+195,2026-04-22,125,Lavado + peinado,Alba,25.0
+196,2026-04-22,137,Corte mujer,Alba,25.0
+197,2026-04-22,91,Corte mujer,Marta,25.0
+198,2026-04-23,55,Tinte,Marta,55.0
+199,2026-04-23,122,Corte hombre,Alba,18.0
+200,2026-04-23,116,Tratamiento capilar,Marta,40.0
+201,2026-04-23,88,Corte hombre,Marta,18.0
+202,2026-04-24,99,Corte mujer,Marta,25.0
+203,2026-04-24,109,Corte + peinado,Alba,35.0
+204,2026-04-24,123,Corte + peinado,Alba,35.0
+205,2026-04-24,132,Corte mujer,Marta,25.0
+206,2026-04-24,130,Lavado + peinado,Marta,25.0
+207,2026-04-24,81,Corte mujer,Marta,25.0
+208,2026-04-24,173,Mechas,Alba,90.0
+209,2026-04-24,97,Tratamiento capilar,Marta,40.0
+210,2026-04-25,139,Tinte,Alba,55.0
+211,2026-04-25,50,Corte + peinado,Marta,35.0
+212,2026-04-25,47,Corte mujer,Alba,25.0
+213,2026-04-25,43,Lavado + peinado,Marta,25.0
+214,2026-04-25,87,Lavado + peinado,Marta,25.0
+215,2026-04-27,152,Mechas,Alba,90.0
+216,2026-04-27,198,Balayage,Alba,120.0
+217,2026-04-28,183,Tinte,Marta,55.0
+218,2026-04-28,206,Tinte,Alba,55.0
+219,2026-04-28,176,Color + corte,Alba,75.0
+220,2026-04-28,119,Corte + peinado,Marta,35.0
+221,2026-04-29,167,Corte mujer,Alba,25.0
+222,2026-04-29,74,Corte hombre,Marta,18.0
+223,2026-04-29,92,Lavado + peinado,Alba,25.0
+224,2026-04-29,86,Corte + peinado,Marta,35.0
+225,2026-04-29,188,Corte + peinado,Alba,35.0
+226,2026-04-29,177,Tratamiento capilar,Alba,40.0
+227,2026-04-29,147,Mechas + corte,Alba,110.0
+228,2026-04-29,112,Tinte,Marta,55.0
+229,2026-04-29,220,Corte + peinado,Marta,35.0
+230,2026-04-30,197,Corte + peinado,Alba,35.0
+231,2026-04-30,59,Balayage,Alba,120.0
+232,2026-04-30,203,Lavado + peinado,Marta,25.0
+233,2026-04-30,80,Mechas,Alba,90.0
+234,2026-04-30,194,Corte mujer,Marta,25.0
+235,2026-04-30,3,Tratamiento capilar,Marta,40.0
+236,2026-04-30,199,Corte mujer,Alba,25.0
+237,2026-05-01,135,Lavado + peinado,Alba,25.0
+238,2026-05-01,15,Corte + peinado,Marta,35.0
+239,2026-05-01,68,Corte mujer,Marta,25.0
+240,2026-05-01,18,Mechas + corte,Alba,110.0
+241,2026-05-01,39,Tinte,Marta,55.0
+242,2026-05-01,82,Tinte,Marta,55.0
+243,2026-05-02,96,Tratamiento capilar,Alba,40.0
+244,2026-05-02,101,Corte hombre,Marta,18.0
+245,2026-05-02,138,Corte mujer,Marta,25.0
+246,2026-05-02,19,Tratamiento capilar,Marta,40.0
+247,2026-05-02,52,Corte mujer,Alba,25.0
+248,2026-05-02,4,Corte mujer,Alba,25.0
+249,2026-05-02,71,Tinte,Marta,55.0
+250,2026-05-02,100,Lavado + peinado,Alba,25.0
+251,2026-05-02,174,Corte mujer,Alba,25.0
+252,2026-05-04,229,Corte mujer,Marta,25.0
+253,2026-05-04,89,Color + corte,Alba,75.0
+254,2026-05-04,190,Mechas + corte,Marta,110.0
+255,2026-05-04,33,Corte mujer,Alba,25.0
+256,2026-05-04,195,Tratamiento capilar,Alba,40.0
+257,2026-05-04,189,Tinte,Marta,55.0
+258,2026-05-04,200,Tratamiento capilar,Alba,40.0
+259,2026-05-05,46,Balayage,Alba,120.0
+260,2026-05-06,21,Lavado + peinado,Marta,25.0
+261,2026-05-07,66,Tinte,Marta,55.0
+262,2026-05-07,184,Mechas + corte,Alba,110.0
+263,2026-05-07,148,Corte mujer,Marta,25.0
+264,2026-05-07,204,Mechas,Marta,90.0
+265,2026-05-08,164,Corte mujer,Marta,25.0
+266,2026-05-08,151,Corte + peinado,Marta,35.0
+267,2026-05-08,105,Mechas,Alba,90.0
+268,2026-05-08,228,Corte mujer,Marta,25.0
+269,2026-05-08,124,Mechas,Marta,90.0
+270,2026-05-08,185,Corte hombre,Marta,18.0
+271,2026-05-09,57,Corte hombre,Marta,18.0
+272,2026-05-09,29,Color + corte,Alba,75.0
+273,2026-05-09,78,Corte mujer,Marta,25.0
+274,2026-05-09,218,Lavado + peinado,Marta,25.0
+275,2026-05-09,2,Corte mujer,Alba,25.0
+276,2026-05-09,108,Tratamiento capilar,Marta,40.0
+277,2026-05-09,75,Corte mujer,Alba,25.0
+278,2026-05-11,175,Tratamiento capilar,Alba,40.0
+279,2026-05-11,171,Tratamiento capilar,Marta,40.0
+280,2026-05-11,84,Mechas,Alba,90.0
+281,2026-05-11,223,Corte + peinado,Marta,35.0
+282,2026-05-11,186,Tinte,Marta,55.0
+283,2026-05-11,98,Balayage,Alba,120.0
+284,2026-05-11,219,Corte + peinado,Marta,35.0
+285,2026-05-11,153,Tinte,Marta,55.0
+286,2026-05-12,60,Corte mujer,Marta,25.0
+287,2026-05-12,159,Color + corte,Alba,75.0
+288,2026-05-12,227,Mechas + corte,Marta,110.0
+289,2026-05-12,128,Tinte,Marta,55.0
+290,2026-05-12,212,Tinte,Alba,55.0
+291,2026-05-12,113,Corte hombre,Alba,18.0
+292,2026-05-13,25,Tratamiento capilar,Marta,40.0
+293,2026-05-13,214,Corte hombre,Alba,18.0
+294,2026-05-13,141,Balayage,Alba,120.0
+295,2026-05-13,58,Lavado + peinado,Marta,25.0
+296,2026-05-14,157,Corte hombre,Marta,18.0
+297,2026-05-14,221,Lavado + peinado,Marta,25.0
+298,2026-05-14,111,Mechas + corte,Alba,110.0
+299,2026-05-14,77,Corte + peinado,Marta,35.0
+300,2026-05-14,70,Tratamiento capilar,Marta,40.0
+301,2026-05-14,224,Corte mujer,Marta,25.0
+302,2026-05-14,17,Tinte,Marta,55.0
+303,2026-05-15,118,Lavado + peinado,Marta,25.0
+304,2026-05-15,181,Corte + peinado,Alba,35.0
+305,2026-05-15,110,Corte mujer,Marta,25.0
+306,2026-05-15,126,Corte mujer,Marta,25.0
+307,2026-05-15,64,Balayage,Marta,120.0
+308,2026-05-16,134,Corte mujer,Alba,25.0
+309,2026-05-16,136,Tratamiento capilar,Marta,40.0
+310,2026-05-16,38,Corte + peinado,Alba,35.0
+311,2026-05-16,62,Lavado + peinado,Alba,25.0
+312,2026-05-16,187,Lavado + peinado,Marta,25.0
+313,2026-05-18,122,Corte hombre,Alba,18.0
+314,2026-05-18,169,Mechas + corte,Marta,110.0
+315,2026-05-18,83,Corte mujer,Marta,25.0
+316,2026-05-18,76,Tinte,Alba,55.0
+317,2026-05-18,106,Corte hombre,Marta,18.0
+318,2026-05-18,182,Corte mujer,Marta,25.0
+319,2026-05-19,85,Lavado + peinado,Marta,25.0
+320,2026-05-20,127,Color + corte,Alba,75.0
+321,2026-05-20,155,Corte mujer,Marta,25.0
+322,2026-05-20,53,Corte + peinado,Marta,35.0
+323,2026-05-20,165,Tinte,Alba,55.0
+324,2026-05-20,217,Corte mujer,Marta,25.0
+325,2026-05-20,34,Color + corte,Marta,75.0
+326,2026-05-21,31,Corte mujer,Marta,25.0
+327,2026-05-21,150,Tratamiento capilar,Alba,40.0
+328,2026-05-21,130,Lavado + peinado,Marta,25.0
+329,2026-05-21,178,Corte mujer,Marta,25.0
+330,2026-05-21,209,Color + corte,Alba,75.0
+331,2026-05-21,166,Color + corte,Marta,75.0
+332,2026-05-22,132,Corte mujer,Alba,25.0
+333,2026-05-22,149,Mechas + corte,Marta,110.0
+334,2026-05-22,90,Lavado + peinado,Alba,25.0
+335,2026-05-22,179,Corte mujer,Marta,25.0
+336,2026-05-22,27,Corte + peinado,Alba,35.0
+337,2026-05-22,156,Color + corte,Marta,75.0
+338,2026-05-22,49,Tinte,Alba,55.0
+339,2026-05-22,81,Corte mujer,Marta,25.0
+340,2026-05-22,45,Corte mujer,Alba,25.0
+341,2026-05-23,152,Corte + peinado,Marta,35.0
+342,2026-05-23,67,Corte mujer,Alba,25.0
+343,2026-05-23,72,Color + corte,Marta,75.0
+344,2026-05-23,26,Tratamiento capilar,Alba,40.0
+345,2026-05-23,16,Corte hombre,Alba,18.0
+346,2026-05-23,158,Lavado + peinado,Alba,25.0
+347,2026-05-25,28,Tinte,Marta,55.0
+348,2026-05-25,216,Corte hombre,Alba,18.0
+349,2026-05-25,114,Lavado + peinado,Alba,25.0
+350,2026-05-25,213,Corte + peinado,Marta,35.0
+351,2026-05-25,131,Corte hombre,Alba,18.0
+352,2026-05-25,48,Tratamiento capilar,Alba,40.0
+353,2026-05-25,91,Lavado + peinado,Marta,25.0
+354,2026-05-25,168,Tinte,Alba,55.0
+355,2026-05-26,222,Mechas,Marta,90.0
+356,2026-05-26,19,Corte mujer,Alba,25.0
+357,2026-05-26,107,Mechas + corte,Alba,110.0
+358,2026-05-26,225,Mechas,Marta,90.0
+359,2026-05-27,145,Corte + peinado,Alba,35.0
+360,2026-05-28,190,Mechas + corte,Marta,110.0
+361,2026-05-28,198,Corte mujer,Alba,25.0
+362,2026-05-28,119,Corte mujer,Alba,25.0
+363,2026-05-28,192,Mechas + corte,Alba,110.0
+364,2026-05-28,201,Corte + peinado,Marta,35.0
+365,2026-05-28,30,Tinte,Marta,55.0
+366,2026-05-28,51,Lavado + peinado,Marta,25.0
+367,2026-05-29,59,Balayage,Alba,120.0
+368,2026-05-29,194,Mechas + corte,Marta,110.0
+369,2026-05-29,37,Corte hombre,Alba,18.0
+370,2026-05-29,226,Tinte,Marta,55.0
+371,2026-05-29,63,Corte hombre,Alba,18.0
+372,2026-05-29,69,Corte + peinado,Marta,35.0
+373,2026-05-29,162,Lavado + peinado,Alba,25.0
+374,2026-05-30,191,Corte + peinado,Marta,35.0
+375,2026-05-30,99,Corte mujer,Alba,25.0
+376,2026-05-30,42,Corte mujer,Marta,25.0
+377,2026-05-30,143,Corte + peinado,Alba,35.0
+378,2026-06-01,202,Mechas,Marta,90.0
+379,2026-06-01,144,Mechas + corte,Alba,110.0
+380,2026-06-01,43,Lavado + peinado,Marta,25.0
+381,2026-06-01,4,Corte + peinado,Marta,35.0
+382,2026-06-01,167,Corte mujer,Alba,25.0
+383,2026-06-02,47,Corte mujer,Alba,25.0
+384,2026-06-02,207,Mechas,Marta,90.0
+385,2026-06-03,174,Corte mujer,Marta,25.0
+386,2026-06-03,236,Lavado + peinado,Marta,25.0
+387,2026-06-03,197,Corte + peinado,Alba,35.0
+388,2026-06-04,87,Lavado + peinado,Marta,25.0
+389,2026-06-04,103,Corte mujer,Alba,25.0
+390,2026-06-04,170,Tratamiento capilar,Alba,40.0
+391,2026-06-05,24,Corte mujer,Alba,25.0
+392,2026-06-05,105,Mechas,Alba,90.0
+393,2026-06-05,116,Corte mujer,Marta,25.0
+394,2026-06-05,125,Corte mujer,Alba,25.0
+395,2026-06-06,109,Corte + peinado,Alba,35.0
+396,2026-06-06,220,Corte mujer,Marta,25.0
+397,2026-06-06,101,Corte hombre,Marta,18.0
+398,2026-06-06,44,Corte mujer,Alba,25.0
+399,2026-06-06,50,Corte + peinado,Alba,35.0
+400,2026-06-06,86,Corte + peinado,Marta,35.0
+401,2026-06-06,40,Corte + peinado,Alba,35.0
+402,2026-06-08,46,Balayage,Marta,120.0
+403,2026-06-08,135,Corte mujer,Alba,25.0
+404,2026-06-08,117,Corte mujer,Marta,25.0
+405,2026-06-09,129,Corte hombre,Alba,18.0
+406,2026-06-10,179,Color + corte,Alba,75.0
+407,2026-06-10,164,Corte mujer,Marta,25.0
+408,2026-06-10,88,Corte hombre,Marta,18.0
+409,2026-06-10,65,Corte hombre,Alba,18.0
+410,2026-06-10,39,Tinte,Marta,55.0
+411,2026-06-11,176,Color + corte,Alba,75.0
+412,2026-06-11,71,Corte mujer,Marta,25.0
+413,2026-06-11,188,Corte + peinado,Marta,35.0
+414,2026-06-11,124,Mechas,Marta,90.0
+415,2026-06-11,121,Corte mujer,Alba,25.0
+416,2026-06-11,108,Corte hombre,Alba,18.0
+417,2026-06-11,154,Corte + peinado,Marta,35.0
+418,2026-06-11,239,Tratamiento capilar,Alba,40.0
+419,2026-06-11,231,Tinte,Marta,55.0
+420,2026-06-11,177,Tratamiento capilar,Alba,40.0
+421,2026-06-12,242,Balayage,Marta,120.0
+422,2026-06-12,233,Lavado + peinado,Alba,25.0
+423,2026-06-12,3,Tratamiento capilar,Marta,40.0
+424,2026-06-12,54,Tratamiento capilar,Alba,40.0
+425,2026-06-12,184,Lavado + peinado,Marta,25.0
+426,2026-06-12,228,Corte mujer,Marta,25.0
+427,2026-06-12,2,Corte mujer,Alba,25.0
+428,2026-06-12,74,Lavado + peinado,Alba,25.0
+429,2026-06-13,237,Tratamiento capilar,Alba,40.0
+430,2026-06-13,183,Lavado + peinado,Alba,25.0
+431,2026-06-13,82,Corte mujer,Marta,25.0
+432,2026-06-13,92,Lavado + peinado,Alba,25.0
+433,2026-06-13,36,Corte + peinado,Marta,35.0
+434,2026-06-13,128,Lavado + peinado,Alba,25.0
+435,2026-06-15,219,Tratamiento capilar,Marta,40.0
+436,2026-06-15,234,Tratamiento capilar,Marta,40.0
+437,2026-06-15,80,Corte hombre,Alba,18.0
+438,2026-06-15,130,Mechas,Marta,90.0
+439,2026-06-15,55,Corte mujer,Alba,25.0
+440,2026-06-16,72,Color + corte,Marta,75.0
+441,2026-06-17,235,Lavado + peinado,Alba,25.0
+442,2026-06-17,123,Corte + peinado,Alba,35.0
+443,2026-06-17,38,Corte + peinado,Alba,35.0
+444,2026-06-17,119,Corte mujer,Marta,25.0
+445,2026-06-17,98,Color + corte,Alba,75.0
+446,2026-06-17,133,Tinte,Marta,55.0
+447,2026-06-17,180,Corte mujer,Alba,25.0
+448,2026-06-18,49,Tinte,Alba,55.0
+449,2026-06-18,138,Color + corte,Marta,75.0
+450,2026-06-19,21,Lavado + peinado,Marta,25.0
+451,2026-06-19,100,Lavado + peinado,Alba,25.0
+452,2026-06-19,96,Tratamiento capilar,Alba,40.0
+453,2026-06-19,77,Corte hombre,Marta,18.0
+454,2026-06-19,29,Color + corte,Marta,75.0
+455,2026-06-19,61,Balayage,Alba,120.0
+456,2026-06-19,223,Corte + peinado,Marta,35.0
+457,2026-06-19,111,Tratamiento capilar,Marta,40.0
+458,2026-06-19,58,Lavado + peinado,Alba,25.0
+459,2026-06-19,195,Tratamiento capilar,Alba,40.0
+460,2026-06-19,31,Corte mujer,Marta,25.0
+461,2026-06-20,22,Tinte,Marta,55.0
+462,2026-06-20,106,Corte mujer,Alba,25.0
+463,2026-06-20,149,Color + corte,Alba,75.0
+464,2026-06-20,175,Tratamiento capilar,Marta,40.0
+465,2026-06-20,18,Corte + peinado,Marta,35.0
+466,2026-06-20,214,Corte hombre,Alba,18.0
+467,2026-06-22,53,Corte + peinado,Marta,35.0
+468,2026-06-22,203,Balayage,Alba,120.0
+469,2026-06-22,186,Tinte,Marta,55.0
+470,2026-06-22,89,Color + corte,Marta,75.0
+471,2026-06-22,207,Mechas,Alba,90.0
+472,2026-06-22,110,Corte mujer,Marta,25.0
+473,2026-06-23,148,Corte mujer,Marta,25.0
+474,2026-06-24,230,Tinte,Marta,55.0
+475,2026-06-24,134,Corte mujer,Alba,25.0
+476,2026-06-24,141,Tratamiento capilar,Alba,40.0
+477,2026-06-24,204,Tratamiento capilar,Marta,40.0
+478,2026-06-24,81,Corte mujer,Marta,25.0
+479,2026-06-24,163,Tratamiento capilar,Alba,40.0
+480,2026-06-25,115,Corte hombre,Marta,18.0
+481,2026-06-25,189,Tinte,Alba,55.0
+482,2026-06-25,158,Corte mujer,Marta,25.0
+483,2026-06-25,57,Corte hombre,Marta,18.0
+484,2026-06-25,200,Tratamiento capilar,Alba,40.0
+485,2026-06-25,151,Corte + peinado,Marta,35.0
+486,2026-06-25,238,Color + corte,Marta,75.0
+487,2026-06-26,198,Corte mujer,Alba,25.0
+488,2026-06-26,227,Corte mujer,Alba,25.0
+489,2026-06-26,132,Corte mujer,Alba,25.0
+490,2026-06-26,23,Balayage,Marta,120.0
+491,2026-06-26,224,Corte mujer,Alba,25.0
+492,2026-06-26,62,Lavado + peinado,Alba,25.0
+493,2026-06-26,152,Corte + peinado,Alba,35.0
+494,2026-06-26,178,Color + corte,Alba,75.0
+495,2026-06-27,240,Corte mujer,Marta,25.0
+496,2026-06-27,60,Corte hombre,Marta,18.0
+497,2026-06-27,118,Corte hombre,Marta,18.0
+498,2026-06-27,69,Corte + peinado,Marta,35.0
+499,2026-06-27,102,Corte + peinado,Alba,35.0
+500,2026-06-27,64,Tratamiento capilar,Marta,40.0
+501,2026-06-29,167,Mechas + corte,Alba,110.0
+502,2026-06-29,229,Corte mujer,Marta,25.0
+503,2026-06-29,85,Lavado + peinado,Marta,25.0
+504,2026-06-29,191,Corte + peinado,Marta,35.0
+505,2026-06-29,127,Color + corte,Alba,75.0
+506,2026-06-29,209,Color + corte,Marta,75.0
+507,2026-06-30,131,Color + corte,Marta,75.0
+508,2026-06-30,146,Mechas + corte,Marta,110.0
+509,2026-06-30,113,Corte hombre,Alba,18.0
+510,2026-06-30,162,Corte mujer,Alba,25.0
+511,2026-06-30,166,Corte mujer,Marta,25.0
+512,2026-07-01,32,Corte hombre,Alba,18.0
+513,2026-07-02,226,Tinte,Marta,55.0
+514,2026-07-02,190,Mechas,Marta,90.0
+515,2026-07-02,165,Tinte,Alba,55.0
+516,2026-07-02,194,Corte + peinado,Marta,35.0
+517,2026-07-03,101,Corte hombre,Marta,18.0
+518,2026-07-03,192,Tinte,Alba,55.0
+519,2026-07-03,37,Lavado + peinado,Marta,25.0
+520,2026-07-03,105,Corte mujer,Marta,25.0
+521,2026-07-03,26,Tratamiento capilar,Alba,40.0
+522,2026-07-03,160,Balayage,Marta,120.0
+523,2026-07-03,67,Corte mujer,Alba,25.0
+524,2026-07-03,206,Tinte,Alba,55.0
+525,2026-07-03,143,Corte mujer,Alba,25.0
+526,2026-07-03,122,Corte + peinado,Marta,35.0
+527,2026-07-04,169,Corte mujer,Alba,25.0
+528,2026-07-04,76,Mechas + corte,Marta,110.0
+529,2026-07-04,59,Balayage,Alba,120.0
+530,2026-07-06,91,Mechas,Marta,90.0
+531,2026-07-06,120,Corte hombre,Alba,18.0
+532,2026-07-06,225,Tinte,Alba,55.0
+533,2026-07-06,25,Tratamiento capilar,Marta,40.0
+534,2026-07-06,83,Mechas,Alba,90.0
+535,2026-07-06,182,Corte mujer,Marta,25.0
+536,2026-07-06,171,Corte hombre,Marta,18.0
+537,2026-07-06,159,Color + corte,Alba,75.0
+538,2026-07-06,220,Corte mujer,Marta,25.0
+539,2026-07-06,172,Corte + peinado,Marta,35.0
+540,2026-07-07,19,Tratamiento capilar,Marta,40.0
+541,2026-07-07,119,Color + corte,Marta,75.0
+542,2026-07-07,49,Corte mujer,Alba,25.0
+543,2026-07-07,136,Tratamiento capilar,Marta,40.0
+544,2026-07-08,39,Tinte,Marta,55.0
+545,2026-07-08,72,Color + corte,Marta,75.0
+546,2026-07-08,250,Color + corte,Alba,75.0
+547,2026-07-08,28,Tinte,Marta,55.0
+548,2026-07-09,70,Tratamiento capilar,Alba,40.0
+549,2026-07-09,99,Corte mujer,Marta,25.0
+550,2026-07-09,260,Tinte,Marta,55.0
+551,2026-07-09,257,Corte mujer,Alba,25.0
+552,2026-07-09,46,Corte mujer,Alba,25.0
+553,2026-07-10,24,Corte mujer,Alba,25.0
+554,2026-07-10,197,Mechas + corte,Marta,110.0
+555,2026-07-10,43,Lavado + peinado,Alba,25.0
+556,2026-07-10,168,Tinte,Marta,55.0
+557,2026-07-10,47,Corte mujer,Alba,25.0
+558,2026-07-10,90,Tratamiento capilar,Alba,40.0
+559,2026-07-10,147,Tinte,Marta,55.0
+560,2026-07-10,94,Tratamiento capilar,Alba,40.0
+561,2026-07-11,109,Corte + peinado,Alba,35.0
+562,2026-07-11,20,Balayage,Marta,120.0
+563,2026-07-11,108,Tratamiento capilar,Alba,40.0
+564,2026-07-11,258,Corte mujer,Alba,25.0
+565,2026-07-11,16,Corte hombre,Alba,18.0
+566,2026-07-11,86,Corte + peinado,Alba,35.0
+567,2026-07-13,100,Lavado + peinado,Marta,25.0
+568,2026-07-13,114,Tinte,Alba,55.0
+569,2026-07-13,202,Mechas,Marta,90.0
+570,2026-07-14,34,Color + corte,Marta,75.0
+571,2026-07-14,63,Corte mujer,Alba,25.0
+572,2026-07-14,219,Tratamiento capilar,Alba,40.0
+573,2026-07-14,31,Corte mujer,Marta,25.0
+574,2026-07-14,215,Balayage,Alba,120.0
+575,2026-07-15,222,Mechas,Alba,90.0
+576,2026-07-15,126,Lavado + peinado,Marta,25.0
+577,2026-07-15,144,Color + corte,Alba,75.0
+578,2026-07-15,188,Corte mujer,Marta,25.0
+579,2026-07-15,234,Tratamiento capilar,Marta,40.0
+580,2026-07-15,149,Lavado + peinado,Marta,25.0
+581,2026-07-15,27,Tinte,Alba,55.0
+582,2026-07-15,259,Lavado + peinado,Alba,25.0
+583,2026-07-16,50,Mechas,Alba,90.0
+584,2026-07-16,236,Corte mujer,Marta,25.0
+585,2026-07-16,135,Lavado + peinado,Marta,25.0
+586,2026-07-16,239,Corte + peinado,Marta,35.0
+587,2026-07-16,87,Corte mujer,Marta,25.0
+588,2026-07-16,44,Corte + peinado,Alba,35.0
+589,2026-07-16,249,Mechas,Marta,90.0
+590,2026-07-16,244,Lavado + peinado,Alba,25.0
+591,2026-07-16,228,Corte hombre,Marta,18.0
+592,2026-07-17,155,Corte + peinado,Marta,35.0
+593,2026-07-17,207,Mechas,Marta,90.0
+594,2026-07-17,130,Lavado + peinado,Marta,25.0
+595,2026-07-18,173,Corte hombre,Alba,18.0
+596,2026-07-18,21,Lavado + peinado,Marta,25.0
+597,2026-07-18,218,Lavado + peinado,Alba,25.0
+598,2026-07-18,248,Corte mujer,Marta,25.0
+599,2026-07-20,125,Corte + peinado,Alba,35.0
+600,2026-07-20,253,Corte mujer,Marta,25.0
+601,2026-07-20,77,Corte mujer,Marta,25.0
+602,2026-07-20,214,Lavado + peinado,Alba,25.0
+603,2026-07-20,255,Corte + peinado,Alba,35.0
+604,2026-07-20,170,Corte mujer,Marta,25.0
+605,2026-07-20,201,Mechas,Marta,90.0
+606,2026-07-21,74,Lavado + peinado,Marta,25.0
+607,2026-07-21,223,Corte + peinado,Marta,35.0
+608,2026-07-21,256,Corte + peinado,Alba,35.0
+609,2026-07-22,254,Tratamiento capilar,Marta,40.0
+610,2026-07-22,148,Tratamiento capilar,Alba,40.0
+611,2026-07-22,56,Color + corte,Marta,75.0
+612,2026-07-23,203,Corte mujer,Marta,25.0
+613,2026-07-23,42,Corte mujer,Marta,25.0
+614,2026-07-23,128,Corte + peinado,Marta,35.0
+615,2026-07-24,179,Color + corte,Alba,75.0
+616,2026-07-24,82,Corte mujer,Marta,25.0
+617,2026-07-24,221,Corte hombre,Marta,18.0
+618,2026-07-24,40,Corte + peinado,Alba,35.0
+619,2026-07-24,97,Mechas,Marta,90.0
+620,2026-07-24,237,Tratamiento capilar,Alba,40.0
+621,2026-07-25,139,Tinte,Marta,55.0
+622,2026-07-25,38,Corte + peinado,Alba,35.0
+623,2026-07-25,175,Corte mujer,Marta,25.0
+624,2026-07-25,58,Lavado + peinado,Alba,25.0
+625,2026-07-25,116,Corte + peinado,Marta,35.0
+626,2026-07-25,185,Corte hombre,Marta,18.0
+627,2026-07-25,216,Corte hombre,Alba,18.0
+628,2026-07-27,209,Color + corte,Alba,75.0
+629,2026-07-27,124,Mechas,Marta,90.0
+630,2026-07-27,96,Tratamiento capilar,Alba,40.0
+631,2026-07-27,213,Corte + peinado,Alba,35.0
+632,2026-07-27,246,Color + corte,Marta,75.0
+633,2026-07-27,157,Mechas,Alba,90.0
+634,2026-07-27,99,Corte mujer,Marta,25.0
+635,2026-07-29,118,Mechas + corte,Alba,110.0
+636,2026-07-29,84,Mechas,Marta,90.0
+637,2026-07-29,150,Mechas + corte,Alba,110.0
+638,2026-07-29,17,Tinte,Marta,55.0
+639,2026-07-30,166,Color + corte,Alba,75.0
+640,2026-07-30,106,Corte mujer,Marta,25.0
+641,2026-07-30,192,Tratamiento capilar,Marta,40.0
+642,2026-07-30,111,Mechas + corte,Marta,110.0
+643,2026-07-30,49,Tinte,Alba,55.0
+644,2026-07-31,177,Tratamiento capilar,Alba,40.0
+645,2026-07-31,167,Color + corte,Marta,75.0
+646,2026-07-31,59,Color + corte,Alba,75.0
+647,2026-07-31,129,Corte mujer,Alba,25.0
+648,2026-07-31,158,Lavado + peinado,Marta,25.0
+649,2026-07-31,3,Tratamiento capilar,Alba,40.0
+650,2026-07-31,91,Corte mujer,Marta,25.0
+651,2026-07-31,156,Color + corte,Marta,75.0
+652,2026-07-31,71,Tinte,Alba,55.0
+653,2026-07-31,122,Corte hombre,Alba,18.0
+654,2026-08-01,164,Corte mujer,Marta,25.0
+655,2026-08-01,2,Corte mujer,Alba,25.0
+656,2026-08-01,92,Lavado + peinado,Alba,25.0
+657,2026-08-01,143,Corte mujer,Marta,25.0
+658,2026-08-01,18,Corte mujer,Marta,25.0
+659,2026-08-01,80,Corte + peinado,Alba,35.0
+660,2026-08-01,78,Corte mujer,Marta,25.0
+661,2026-08-01,19,Tratamiento capilar,Alba,40.0
+662,2026-08-03,15,Tinte,Marta,55.0
+663,2026-08-03,186,Tinte,Alba,55.0
+664,2026-08-03,252,Tratamiento capilar,Marta,40.0
+665,2026-08-03,176,Color + corte,Marta,75.0
+666,2026-08-03,183,Tinte,Alba,55.0
+667,2026-08-03,29,Color + corte,Alba,75.0
+668,2026-08-03,85,Lavado + peinado,Marta,25.0
+669,2026-08-04,227,Color + corte,Alba,75.0
+670,2026-08-04,235,Tinte,Marta,55.0
+671,2026-08-04,194,Corte + peinado,Marta,35.0
+672,2026-08-04,162,Corte mujer,Marta,25.0
+673,2026-08-04,69,Mechas,Marta,90.0
+674,2026-08-04,88,Corte hombre,Marta,18.0
+675,2026-08-05,39,Tinte,Marta,55.0
+676,2026-08-05,46,Balayage,Alba,120.0
+677,2026-08-05,229,Corte mujer,Marta,25.0
+678,2026-08-05,127,Corte mujer,Alba,25.0
+679,2026-08-05,62,Corte hombre,Alba,18.0
+680,2026-08-06,270,Color + corte,Marta,75.0
+681,2026-08-06,103,Corte + peinado,Alba,35.0
+682,2026-08-06,53,Tinte,Alba,55.0
+683,2026-08-06,60,Corte mujer,Marta,25.0
+684,2026-08-06,258,Balayage,Alba,120.0
+685,2026-08-06,138,Lavado + peinado,Marta,25.0
+686,2026-08-06,37,Corte hombre,Marta,18.0
+687,2026-08-07,152,Corte + peinado,Alba,35.0
+688,2026-08-07,76,Mechas + corte,Alba,110.0
+689,2026-08-07,190,Corte hombre,Marta,18.0
+690,2026-08-07,245,Corte + peinado,Marta,35.0
+691,2026-08-07,178,Corte mujer,Marta,25.0
+692,2026-08-07,75,Corte + peinado,Alba,35.0
+693,2026-08-07,238,Color + corte,Alba,75.0
+694,2026-08-07,182,Corte hombre,Marta,18.0
+695,2026-08-07,110,Corte mujer,Marta,25.0
+696,2026-08-08,132,Corte mujer,Marta,25.0
+697,2026-08-08,134,Corte mujer,Alba,25.0
+698,2026-08-08,228,Corte mujer,Marta,25.0
+699,2026-08-08,24,Corte mujer,Marta,25.0
+700,2026-08-08,199,Corte mujer,Alba,25.0
+701,2026-08-08,271,Corte mujer,Marta,25.0
+702,2026-08-08,31,Corte mujer,Marta,25.0
+703,2026-08-10,268,Balayage,Alba,120.0
+704,2026-08-10,191,Corte + peinado,Marta,35.0
+705,2026-08-10,230,Tinte,Marta,55.0
+706,2026-08-10,105,Mechas,Alba,90.0
+707,2026-08-10,135,Lavado + peinado,Marta,25.0
+708,2026-08-10,225,Lavado + peinado,Alba,25.0
+709,2026-08-11,141,Corte + peinado,Alba,35.0
+710,2026-08-11,151,Corte + peinado,Marta,35.0
+711,2026-08-11,130,Lavado + peinado,Marta,25.0
+712,2026-08-12,123,Corte + peinado,Alba,35.0
+713,2026-08-12,224,Corte mujer,Marta,25.0
+714,2026-08-12,98,Lavado + peinado,Alba,25.0
+715,2026-08-12,45,Corte mujer,Marta,25.0
+716,2026-08-12,81,Corte mujer,Marta,25.0
+717,2026-08-13,86,Corte + peinado,Alba,35.0
+718,2026-08-13,83,Mechas,Marta,90.0
+719,2026-08-13,145,Corte + peinado,Alba,35.0
+720,2026-08-13,149,Tratamiento capilar,Marta,40.0
+721,2026-08-13,226,Tinte,Alba,55.0
+722,2026-08-13,43,Corte mujer,Marta,25.0
+723,2026-08-13,77,Corte hombre,Marta,18.0
+724,2026-08-13,169,Corte hombre,Marta,18.0
+725,2026-08-14,112,Tinte,Marta,55.0
+726,2026-08-14,114,Mechas,Alba,90.0
+727,2026-08-14,72,Color + corte,Marta,75.0
+728,2026-08-14,198,Corte mujer,Alba,25.0
+729,2026-08-14,89,Color + corte,Alba,75.0
+730,2026-08-14,220,Corte mujer,Marta,25.0
+731,2026-08-14,101,Corte mujer,Marta,25.0
+732,2026-08-14,231,Corte mujer,Alba,25.0
+733,2026-08-15,195,Tratamiento capilar,Marta,40.0
+734,2026-08-15,33,Corte mujer,Alba,25.0
+735,2026-08-15,207,Corte hombre,Marta,18.0
+736,2026-08-15,55,Corte mujer,Alba,25.0
+737,2026-08-15,119,Corte mujer,Marta,25.0
+738,2026-08-15,239,Corte + peinado,Marta,35.0
+739,2026-08-15,108,Lavado + peinado,Alba,25.0
+740,2026-08-17,274,Corte mujer,Marta,25.0
+741,2026-08-17,248,Color + corte,Marta,75.0
+742,2026-08-17,168,Tinte,Alba,55.0
+743,2026-08-17,204,Corte mujer,Alba,25.0
+744,2026-08-17,219,Corte hombre,Marta,18.0
+745,2026-08-17,67,Corte mujer,Alba,25.0
+746,2026-08-17,280,Corte mujer,Marta,25.0
+747,2026-08-17,113,Corte hombre,Alba,18.0
+748,2026-08-18,57,Corte + peinado,Marta,35.0
+749,2026-08-19,262,Corte + peinado,Marta,35.0
+750,2026-08-19,278,Corte + peinado,Marta,35.0
+751,2026-08-19,242,Color + corte,Marta,75.0
+752,2026-08-20,36,Balayage,Marta,120.0
+753,2026-08-20,25,Tratamiento capilar,Marta,40.0
+754,2026-08-21,247,Balayage,Marta,120.0
+755,2026-08-21,202,Mechas,Marta,90.0
+756,2026-08-21,257,Corte mujer,Alba,25.0
+757,2026-08-21,16,Corte mujer,Alba,25.0
+758,2026-08-21,264,Corte hombre,Alba,18.0
+759,2026-08-21,234,Tinte,Marta,55.0
+760,2026-08-22,165,Tinte,Marta,55.0
+761,2026-08-22,26,Tratamiento capilar,Alba,40.0
+762,2026-08-22,171,Tratamiento capilar,Alba,40.0
+763,2026-08-22,189,Tinte,Marta,55.0
+764,2026-08-22,109,Corte + peinado,Alba,35.0
+765,2026-08-22,217,Corte mujer,Alba,25.0
+766,2026-08-24,131,Color + corte,Alba,75.0
+767,2026-08-24,18,Mechas + corte,Marta,110.0
+768,2026-08-24,65,Corte hombre,Alba,18.0
+769,2026-08-24,136,Tratamiento capilar,Marta,40.0
+770,2026-08-24,69,Corte + peinado,Marta,35.0
+771,2026-08-24,38,Corte + peinado,Alba,35.0
+772,2026-08-25,254,Color + corte,Alba,75.0
+773,2026-08-25,47,Mechas + corte,Marta,110.0
+774,2026-08-25,222,Mechas,Alba,90.0
+775,2026-08-25,179,Color + corte,Marta,75.0
+776,2026-08-26,188,Lavado + peinado,Alba,25.0
+777,2026-08-26,263,Tratamiento capilar,Marta,40.0
+778,2026-08-26,143,Corte mujer,Alba,25.0
+779,2026-08-26,100,Lavado + peinado,Marta,25.0
+780,2026-08-26,269,Mechas,Marta,90.0
+781,2026-08-26,117,Tratamiento capilar,Alba,40.0
+782,2026-08-26,44,Corte mujer,Alba,25.0
+783,2026-08-26,181,Balayage,Marta,120.0
+784,2026-08-26,125,Corte mujer,Alba,25.0
+785,2026-08-26,48,Tratamiento capilar,Alba,40.0
+786,2026-08-27,249,Mechas,Marta,90.0
+787,2026-08-27,167,Corte mujer,Alba,25.0
+788,2026-08-27,250,Corte mujer,Marta,25.0
+789,2026-08-27,158,Lavado + peinado,Marta,25.0
+790,2026-08-27,215,Balayage,Marta,120.0
+791,2026-08-28,144,Tinte,Alba,55.0
+792,2026-08-28,19,Tratamiento capilar,Marta,40.0
+793,2026-08-28,34,Corte mujer,Alba,25.0
+794,2026-08-28,197,Corte + peinado,Alba,35.0
+795,2026-08-28,175,Tratamiento capilar,Marta,40.0
+796,2026-08-28,49,Corte hombre,Alba,18.0
+797,2026-08-29,209,Corte mujer,Alba,25.0
+798,2026-08-29,22,Tinte,Marta,55.0
+799,2026-08-29,54,Tratamiento capilar,Alba,40.0
+800,2026-08-29,121,Corte mujer,Alba,25.0
+801,2026-08-29,21,Lavado + peinado,Marta,25.0
+802,2026-08-29,28,Corte hombre,Alba,18.0
+803,2026-08-29,63,Corte hombre,Marta,18.0
+804,2026-08-31,74,Mechas,Marta,90.0
+805,2026-08-31,58,Lavado + peinado,Alba,25.0
+806,2026-08-31,216,Corte hombre,Alba,18.0
+807,2026-08-31,212,Tinte,Alba,55.0
+808,2026-08-31,128,Lavado + peinado,Marta,25.0
+809,2026-08-31,106,Corte hombre,Marta,18.0
+810,2026-08-31,166,Color + corte,Marta,75.0
+811,2026-09-01,186,Mechas + corte,Marta,110.0
+812,2026-09-02,152,Mechas + corte,Marta,110.0
+813,2026-09-02,80,Tinte,Alba,55.0
+814,2026-09-02,59,Balayage,Alba,120.0
+815,2026-09-02,159,Color + corte,Marta,75.0
+816,2026-09-03,99,Corte mujer,Marta,25.0
+817,2026-09-03,273,Tratamiento capilar,Marta,40.0
+818,2026-09-03,178,Corte mujer,Marta,25.0
+819,2026-09-03,91,Lavado + peinado,Alba,25.0
+820,2026-09-03,258,Corte mujer,Marta,25.0
+821,2026-09-03,280,Corte mujer,Alba,25.0
+822,2026-09-03,246,Color + corte,Marta,75.0
+823,2026-09-03,255,Corte + peinado,Alba,35.0
+824,2026-09-04,42,Corte mujer,Marta,25.0
+825,2026-09-04,130,Lavado + peinado,Alba,25.0
+826,2026-09-04,50,Corte + peinado,Alba,35.0
+827,2026-09-05,148,Corte mujer,Alba,25.0
+828,2026-09-05,259,Lavado + peinado,Marta,25.0
+829,2026-09-05,146,Corte mujer,Alba,25.0
+830,2026-09-05,122,Corte hombre,Marta,18.0
+831,2026-09-05,70,Tratamiento capilar,Alba,40.0
+832,2026-09-05,119,Tinte,Marta,55.0
+833,2026-09-05,37,Tratamiento capilar,Alba,40.0
+834,2026-09-07,277,Tinte,Alba,55.0
+835,2026-09-07,292,Corte mujer,Marta,25.0
+836,2026-09-07,31,Corte mujer,Marta,25.0
+837,2026-09-07,105,Mechas,Alba,90.0
+838,2026-09-07,268,Balayage,Marta,120.0
+839,2026-09-07,203,Corte mujer,Marta,25.0
+840,2026-09-07,183,Tinte,Alba,55.0
+841,2026-09-07,163,Tratamiento capilar,Marta,40.0
+842,2026-09-07,214,Corte hombre,Alba,18.0
+843,2026-09-08,96,Tratamiento capilar,Alba,40.0
+844,2026-09-08,286,Corte mujer,Marta,25.0
+845,2026-09-08,87,Corte mujer,Marta,25.0
+846,2026-09-08,132,Corte mujer,Alba,25.0
+847,2026-09-08,118,Lavado + peinado,Marta,25.0
+848,2026-09-08,124,Corte mujer,Alba,25.0
+849,2026-09-08,240,Corte mujer,Marta,25.0
+850,2026-09-08,279,Mechas,Alba,90.0
+851,2026-09-09,76,Mechas + corte,Alba,110.0
+852,2026-09-09,60,Corte mujer,Marta,25.0
+853,2026-09-09,191,Corte + peinado,Marta,35.0
+854,2026-09-09,238,Color + corte,Marta,75.0
+855,2026-09-09,126,Color + corte,Marta,75.0
+856,2026-09-10,194,Corte + peinado,Marta,35.0
+857,2026-09-10,228,Tinte,Alba,55.0
+858,2026-09-10,201,Corte + peinado,Marta,35.0
+859,2026-09-10,127,Corte mujer,Marta,25.0
+860,2026-09-10,230,Tinte,Alba,55.0
+861,2026-09-10,207,Corte hombre,Marta,18.0
+862,2026-09-10,107,Mechas,Alba,90.0
+863,2026-09-10,184,Mechas + corte,Marta,110.0
+864,2026-09-10,72,Corte mujer,Marta,25.0
+865,2026-09-11,223,Mechas,Alba,90.0
+866,2026-09-11,101,Corte hombre,Marta,18.0
+867,2026-09-11,155,Corte + peinado,Marta,35.0
+868,2026-09-11,252,Corte + peinado,Marta,35.0
+869,2026-09-11,27,Tinte,Alba,55.0
+870,2026-09-11,147,Tinte,Marta,55.0
+871,2026-09-11,29,Mechas,Alba,90.0
+872,2026-09-11,111,Corte + peinado,Marta,35.0
+873,2026-09-11,23,Corte + peinado,Marta,35.0
+874,2026-09-11,233,Corte hombre,Alba,18.0
+875,2026-09-12,3,Tratamiento capilar,Marta,40.0
+876,2026-09-12,116,Corte mujer,Marta,25.0
+877,2026-09-12,24,Corte mujer,Alba,25.0
+878,2026-09-12,291,Corte hombre,Marta,18.0
+879,2026-09-12,237,Tratamiento capilar,Alba,40.0
+880,2026-09-12,77,Corte hombre,Marta,18.0
+881,2026-09-12,164,Lavado + peinado,Alba,25.0
+882,2026-09-14,114,Mechas,Marta,90.0
+883,2026-09-14,108,Tratamiento capilar,Alba,40.0
+884,2026-09-14,177,Tratamiento capilar,Marta,40.0
+885,2026-09-14,219,Tratamiento capilar,Alba,40.0
+886,2026-09-14,190,Mechas + corte,Marta,110.0
+887,2026-09-15,289,Corte + peinado,Alba,35.0
+888,2026-09-15,133,Mechas + corte,Alba,110.0
+889,2026-09-15,248,Corte mujer,Marta,25.0
+890,2026-09-16,134,Corte + peinado,Alba,35.0
+891,2026-09-16,293,Corte mujer,Alba,25.0
+892,2026-09-16,39,Tinte,Marta,55.0
+893,2026-09-16,40,Corte + peinado,Alba,35.0
+894,2026-09-16,229,Corte mujer,Marta,25.0
+895,2026-09-17,86,Corte + peinado,Marta,35.0
+896,2026-09-17,43,Mechas + corte,Marta,110.0
+897,2026-09-17,235,Corte + peinado,Alba,35.0
+898,2026-09-17,179,Color + corte,Alba,75.0
+899,2026-09-17,85,Color + corte,Marta,75.0
+900,2026-09-17,192,Tratamiento capilar,Alba,40.0
+901,2026-09-17,61,Corte + peinado,Marta,35.0
+902,2026-09-17,257,Corte mujer,Alba,25.0
+903,2026-09-17,129,Corte mujer,Alba,25.0
+904,2026-09-18,71,Tinte,Alba,55.0
+905,2026-09-18,206,Corte + peinado,Marta,35.0
+906,2026-09-18,218,Lavado + peinado,Marta,25.0
+907,2026-09-18,182,Corte mujer,Marta,25.0
+908,2026-09-18,162,Corte mujer,Marta,25.0
+909,2026-09-18,220,Corte mujer,Alba,25.0
+910,2026-09-18,167,Corte mujer,Alba,25.0
+911,2026-09-19,46,Balayage,Alba,120.0
+912,2026-09-19,226,Tinte,Marta,55.0
+913,2026-09-19,245,Corte + peinado,Alba,35.0
+914,2026-09-21,55,Corte mujer,Alba,25.0
+915,2026-09-21,115,Corte + peinado,Marta,35.0
+916,2026-09-21,18,Mechas + corte,Alba,110.0
+917,2026-09-21,281,Corte mujer,Marta,25.0
+918,2026-09-21,81,Corte mujer,Marta,25.0
+919,2026-09-21,110,Lavado + peinado,Marta,25.0
+920,2026-09-21,74,Mechas,Marta,90.0
+921,2026-09-21,62,Lavado + peinado,Alba,25.0
+922,2026-09-21,135,Lavado + peinado,Alba,25.0
+923,2026-09-22,227,Color + corte,Marta,75.0
+924,2026-09-23,290,Corte mujer,Marta,25.0
+925,2026-09-23,165,Corte + peinado,Alba,35.0
+926,2026-09-23,102,Corte + peinado,Alba,35.0
+927,2026-09-23,158,Lavado + peinado,Marta,25.0
+928,2026-09-23,198,Corte hombre,Alba,18.0
+929,2026-09-24,263,Tratamiento capilar,Marta,40.0
+930,2026-09-24,176,Tratamiento capilar,Marta,40.0
+931,2026-09-25,149,Tratamiento capilar,Marta,40.0
+932,2026-09-25,195,Tratamiento capilar,Alba,40.0
+933,2026-09-25,284,Corte hombre,Marta,18.0
+934,2026-09-25,92,Lavado + peinado,Alba,25.0
+935,2026-09-25,256,Corte + peinado,Marta,35.0
+936,2026-09-25,202,Mechas,Alba,90.0
+937,2026-09-26,278,Corte + peinado,Marta,35.0
+938,2026-09-26,32,Tinte,Alba,55.0
+939,2026-09-26,239,Corte + peinado,Marta,35.0
+940,2026-09-26,221,Lavado + peinado,Marta,25.0
+941,2026-09-26,19,Corte mujer,Marta,25.0
+942,2026-09-26,2,Corte mujer,Alba,25.0

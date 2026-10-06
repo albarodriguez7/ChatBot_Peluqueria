@@ -1,0 +1,4 @@
+# Tema común a las aplicaciones de Studio Alba: el verde sustituye al rojo por defecto de Streamlit.
+[theme]
+base = "light"
+primaryColor = "#1f4d3a"

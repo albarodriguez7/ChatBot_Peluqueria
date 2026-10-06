@@ -1,0 +1,11 @@
+id_servicio,nombre,precio,duracion_minutos
+1,Corte mujer,25,45
+2,Corte hombre,18,30
+3,Corte + peinado,35,60
+4,Lavado + peinado,25,45
+5,Tinte,55,120
+6,Mechas,90,180
+7,Balayage,120,210
+8,Tratamiento capilar,40,60
+9,Color + corte,75,165
+10,Mechas + corte,110,225

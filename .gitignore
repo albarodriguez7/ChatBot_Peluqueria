@@ -1,0 +1,31 @@
+# Entorno virtual y cachés de Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+dist/
+build/
+*.egg-info/
+
+# Claves y credenciales: NUNCA se suben
+.env
+.env.*
+!.env.example
+credenciales/
+*service_account*.json
+*.pem
+*.key
+
+# Datos que genera la app al ejecutarse
+datos_negocio/*.db
+datos_negocio/*.db-*
+datos_negocio/citas_huerfanas.csv
+datos_negocio/backup_*/
+chroma_db/
+
+# Configuración personal del editor y del sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

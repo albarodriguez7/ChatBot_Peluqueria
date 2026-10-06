@@ -1,0 +1,12 @@
+id_cliente,nombre,telefono,email,fecha_alta,ultimo_servicio,total_visitas
+1,Laura García,600100101,,2026-02-10,2026-09-12,8.0
+2,Marta López,600100102,,2026-03-05,2026-09-20,5.0
+3,Sofía Martín,600100103,,2026-04-18,2026-08-15,3.0
+4,Paula Sánchez,600100104,,2026-05-02,2026-09-25,6.0
+5,Lucía Fernández,600100105,,2026-06-11,2026-07-22,2.0
+6,Carmen Ruiz,600100106,carmenruiz@gmail.com,2026-07-03,2026-09-05,3.0
+7,Alba Martín,637287361,albamartin@gmail.com,2026-09-28,,0.0
+8,Ana Perez,678857692,anaperez@gmail.com,2026-09-28,,0.0
+9,Pepa Jimenez,637163349,pepajimenez@gmail.com,2026-09-28,,0.0
+10,Juliana Alvarez,615355678,julianaalvarez@gmail.com,2026-09-28,,0.0
+11,Pepita Perez,638291648,pepitaperez@gmail.com,2026-09-29,,0.0
